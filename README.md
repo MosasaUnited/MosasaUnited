@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m ready to help others<br>🌱 I’m currently learning PHP<br>💬 Ask me about Flutter<br>⚡ Alexandria Electricity Distribution Company
+🔭 I’m currently working as a Software Developer @ AEDC<br>👯 I’m looking to collaborate on<br>🤝 I’m ready to help others<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Flutter<br>⚡ Alexandria Electricity Distribution Company
 
 
 ## 🌐 Socials:
