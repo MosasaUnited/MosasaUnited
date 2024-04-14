@@ -18,17 +18,16 @@
 
 #  GitHub Stats:
 
-**(Replace with relevant stat badge)**
 ![](https://github-readme-stats.vercel.app/api?username=MosasaUnited&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**(Replace with another relevant stat badge)**
 ![](https://github-contributor-stats.vercel.app/api?username=MosasaUnited&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### ✍️ Top Project:
 
-* **Profile App(https://github.com/MosasaUnited/Profile-App)**: This project showcases a remarkable mobile application that acts as your interactive digital profile, seamlessly adapting its design to various screen sizes. Whether you're using a mobile phone, tablet, web browser, or desktop computer, the app guarantees an exceptional viewing experience that highlights your unique identity..
+* **Profile App(https://github.com/MosasaUnited/Profile-App)**:
+*  This project showcases a remarkable mobile application that acts as your interactive digital profile, seamlessly adapting its design to various screen sizes. Whether you're using a mobile phone, tablet, web browser, or desktop computer, the app guarantees an exceptional viewing experience that highlights your unique identity..
 
-###  **[Call to action (e.g., Let's connect!)**
+###  **[Call to action (**tel: +201224774051**)**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MosasaUnited&icon=0&color=0)](https://visitcount.itsvg.in)
