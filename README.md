@@ -1,6 +1,6 @@
 #  About Me:
 
-* **[Current position and duration (e.g., Mobile Developer at AEDC (6 years))]**
+* **[Current position and duration (e.g., Mobile Developer at AEDC (4 years))]**
 * **I'm currently learning Flutter and am excited to build beautiful and performant mobile apps.** 
 * **I'm always happy to help others with Flutter development or answer questions.**
 * **Feel free to reach out if you'd like to collaborate on open-source projects or explore new technologies in mobile development.** 
