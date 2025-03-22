@@ -29,7 +29,7 @@ I'm a passionate Flutter developer dedicated to crafting beautiful, high-perform
 I'm always open to collaborating on open-source projects and exploring new technologies in mobile development. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-saad-247b5914b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mostafa447@hotmail.com)
 [![Phone](https://img.shields.io/badge/Call-+201224774051-green?style=flat&logo=whatsapp&logoColor=white)](tel:+201224774051)
 
 ---
