@@ -8,7 +8,7 @@ I'm a passionate Flutter developer dedicated to crafting beautiful, high-perform
 ## 🚀 Featured Projects
 
 ### 📱 Mobile Applications
-- [**ECO Monitoring**](https://play.google.com/store/apps/details?id=com.cdws.eco_monitoring) - Environmental monitoring application available on Google Play
+- [**ECO Monitoring**](https://play.google.com/store/apps/details?id=com.cdws.eco_monitoring) - A cutting-edge mobile application designed for professional divers to monitor and document marine species effectively. Leveraging the latest Flutter framework, this app facilitates the collection, categorization, and sharing of ecological data in real-time, ensuring the preservation and protection of marine ecosystems (application available on Google Play).
 - [**AEDC Clinic**](https://github.com/MosasaUnited/AEDC_Clinic) - Healthcare management system for AEDC
 - [**Ashgar Club App**](https://github.com/MosasaUnited/AshgarClubApp) - Membership and facilities management for Ashgar Club
 - [**Profile App**](https://github.com/MosasaUnited/Profile-App) - Customizable digital profile solution
