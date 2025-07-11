@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,api,android,ios" />
   </a>
 </p>
 
