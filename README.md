@@ -1,6 +1,5 @@
 # 👋 Hello there! I'm Mostafa Saad 👨‍💻
 
----
 
 ### ✨ Crafting immersive mobile experiences with Flutter.
 
@@ -39,16 +38,6 @@ Here are some of the key mobile applications I've developed:
 
 * **[Profile App](https://github.com/MosasaUnited/Profile-App)**
     * A versatile and customizable digital profile solution, designed to offer a modern way to showcase personal or professional information.
-
----
-
-## 🛠️ My Tech Stack
-
-Dive into the technologies and tools I frequently work with:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,php,c&perline=6" />
-</p>
 
 ---
 
