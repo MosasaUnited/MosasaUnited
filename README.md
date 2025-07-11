@@ -1,8 +1,22 @@
-# 👋 Hello, I'm Mostafa Saad!
+# 👋 Hello there! I'm Mostafa Saad 👨‍💻
+
+---
+
+### ✨ Crafting immersive mobile experiences with Flutter.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,php,c" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MosasaUnited/MosasaUnited/main/assets/images/typing-animation.gif" alt="Typing Animation" width="400" />
+</p>
 
 I'm a passionate and experienced **Mobile Developer** with **4+ years** at **Alexandria Electricity Distribution Company (AEDC)**. My journey in development is driven by a dedication to crafting beautiful, high-performance mobile applications. With a strong foundation in **Dart** and a keen eye for **UI/UX**, I love transforming innovative ideas into engaging and intuitive digital experiences using **Flutter**.
 
@@ -30,14 +44,11 @@ Here are some of the key mobile applications I've developed:
 
 ## 🛠️ My Tech Stack
 
-A snapshot of the technologies and tools I frequently work with:
+Dive into the technologies and tools I frequently work with:
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,php,c&perline=6" />
+</p>
 
 ---
 
@@ -45,10 +56,20 @@ A snapshot of the technologies and tools I frequently work with:
 
 I'm always open to collaborating on open-source projects, sharing knowledge, and exploring new technologies in mobile development. Feel free to reach out and connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-saad-247b5914b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mostafa447@hotmail.com)
-[![Phone](https://img.shields.io/badge/Call-+201224774051-green?style=flat&logo=whatsapp&logoColor=white)](tel:+201224774051)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafa-saad-247b5914b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mostafa447@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/201224774051" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
-![Visitors](https://visitcount.itsvg.in/api?id=MosasaUnited&icon=0&color=0)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MosasaUnited&color=blue&style=flat-square" alt="Profile views">
+</p>
