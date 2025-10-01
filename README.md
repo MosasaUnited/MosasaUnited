@@ -1,6 +1,5 @@
 # 👋 Hello there! I'm Mostafa Saad 👨‍💻
 
-
 ### ✨ Crafting immersive mobile experiences with Flutter.
 
 <p align="center">
@@ -27,8 +26,19 @@ Here are some of the key mobile applications I've developed:
 
 ### 📱 Mobile Applications
 
-* **[ECO Monitoring](https://play.google.com/store/apps/details?id=com.cdws.eco_monitoring)**
-    * A cutting-edge mobile application designed for professional divers to monitor and document marine species effectively. Leveraging the latest Flutter framework, this app facilitates the collection, categorization, and sharing of ecological data in real-time, ensuring the preservation and protection of marine ecosystems. (Available on Google Play)
+* **Cv Hat**
+    * My newest application! A tool designed to simplify and enhance the process of creating professional and eye-catching CVs and resumes on the go. Built with Flutter, it offers a seamless and intuitive user experience for job seekers.
+    * **Check it out:**
+    <a href="https://play.google.com/store/apps/details?id=com.cvhat.cvhat" target="_blank">
+        <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
+
+* **ECO Monitoring**
+    * A cutting-edge mobile application designed for professional divers to monitor and document marine species effectively. Leveraging the latest Flutter framework, this app facilitates the collection, categorization, and sharing of ecological data in real-time, ensuring the preservation and protection of marine ecosystems.
+    * **Check it out:**
+    <a href="https://play.google.com/store/apps/details?id=com.cdws.eco_monitoring" target="_blank">
+        <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
 
 * **[AEDC Clinic](https://github.com/MosasaUnited/AEDC_Clinic)**
     * A comprehensive healthcare management system developed for AEDC, streamlining clinic operations and patient data.
@@ -58,7 +68,6 @@ I'm always open to collaborating on open-source projects, sharing knowledge, and
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MosasaUnited&color=blue&style=flat-square" alt="Profile views">
