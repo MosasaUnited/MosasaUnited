@@ -40,15 +40,6 @@ Here are some of the key mobile applications I've developed:
         <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
     </a>
 
-* **[AEDC Clinic](https://github.com/MosasaUnited/AEDC_Clinic)**
-    * A comprehensive healthcare management system developed for AEDC, streamlining clinic operations and patient data.
-
-* **[Ashgar Club App](https://github.com/MosasaUnited/AshgarClubApp)**
-    * An application for managing club memberships and facilities for Ashgar Club, enhancing member engagement and operational efficiency.
-
-* **[Profile App](https://github.com/MosasaUnited/Profile-App)**
-    * A versatile and customizable digital profile solution, designed to offer a modern way to showcase personal or professional information.
-
 ---
 
 ## 🤝 Let's Connect!
